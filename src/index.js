@@ -175,6 +175,40 @@ const banditStartDeck = [
     new Lad(),
 ];
 
+// const seriffStartDeck = [
+//     new Duck(),
+//     new Duck(),
+//     new Duck(),
+// ];
+//
+// const banditStartDeck = [
+//     new Dog(),
+// ];
+
+// const seriffStartDeck = [
+//     new Duck(),
+//     new Duck(),
+//     new Duck(),
+//     new Duck(),
+// ];
+//
+// const banditStartDeck = [
+//     new Trasher(),
+// ];
+
+// const seriffStartDeck = [
+//     new Duck(),
+//     new Duck(),
+//     new Duck(),
+//     new Gatling(),
+// ];
+//
+// const banditStartDeck = [
+//     new Trasher(),
+//     new Dog(),
+//     new Dog(),
+// ];
+
 
 const game = new Game(seriffStartDeck, banditStartDeck);
 
